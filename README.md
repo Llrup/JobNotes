@@ -5,7 +5,7 @@ Autor: Manuel Ruiz Pérez
 Fecha de inicio: 4/12/2019 
 ```
 ***
-###Iniciar nuevo repo en local: 
+### Iniciar nuevo repo en local: 
 ```
 $ mkdir carpeta
 $ cd carpeta
